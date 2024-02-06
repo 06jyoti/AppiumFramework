@@ -27,7 +27,7 @@ public class AndroidServer {
 					
 		UiAutomator2Options options= new UiAutomator2Options();
 		options.setDeviceName("Pixel 7 Pro API 31");
-		options.setApp("C:\\Users\\dell\\Downloads\\tether-release.apk");
+		options.setApp("apk path");
 		
 		 driver= new AndroidDriver(new URL("http://127.0.0.1:4723"), options);
 	  }
