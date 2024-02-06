@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-06T16:46:04 IST" name="Default suite" finished-at="2024-02-06T16:46:50 IST" duration-ms="45468">
+    <groups>
+    </groups>
+    <test started-at="2024-02-06T16:46:04 IST" name="Default test" finished-at="2024-02-06T16:46:50 IST" duration-ms="45468">
+      <class name="testCases.WithdrawTest">
+        <test-method is-config="true" signature="Config()[pri:0, instance:testCases.WithdrawTest@49ec71f8]" started-at="2024-02-06T16:46:04 IST" name="Config" finished-at="2024-02-06T16:46:27 IST" duration-ms="22493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Config -->
+        <test-method is-config="true" signature="step1()[pri:0, instance:testCases.WithdrawTest@49ec71f8]" started-at="2024-02-06T16:46:27 IST" name="step1" finished-at="2024-02-06T16:46:35 IST" duration-ms="8317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- step1 -->
+        <test-method signature="addBnakAccount()[pri:0, instance:testCases.WithdrawTest@49ec71f8]" started-at="2024-02-06T16:46:35 IST" name="addBnakAccount" finished-at="2024-02-06T16:46:49 IST" duration-ms="13380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBnakAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.WithdrawTest@49ec71f8]" started-at="2024-02-06T16:46:49 IST" name="tearDown" finished-at="2024-02-06T16:46:50 IST" duration-ms="1179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.WithdrawTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
